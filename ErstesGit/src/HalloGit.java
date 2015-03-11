@@ -6,5 +6,6 @@ public class HalloGit {
 		System.out.println("Hallo, bin auch drin :D");
 		System.out.println("Hallo");
 		System.out.println("#YOLO");
+		//Ich bin ein Merge
 	}
 }

@@ -5,5 +5,4 @@ public class HalloGit {
 		System.out.println("Hallo, ich bin ganz neuer Code...");
 		System.out.println("Hallo, bin auch drin :D");
 	}
-
 }

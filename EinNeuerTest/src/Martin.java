@@ -6,6 +6,8 @@ public class Martin {
 		System.out.println("(y)");
 		
 		System.out.println("Hallo");
+		System.out.println("HALLOOOOOOOOO");
+		System.out.println("alles cool bei euch???");
 	}
 
 }
